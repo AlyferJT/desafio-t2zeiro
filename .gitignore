@@ -2,3 +2,5 @@ Old
 Output
 .env
 .flake8
+.idea
+__pycache__
